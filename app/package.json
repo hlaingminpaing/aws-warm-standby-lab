@@ -1,0 +1,14 @@
+{
+  "name": "warm-standby-poc",
+  "version": "1.0.0",
+  "description": "POC app for Warm Standby",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.1"
+  }
+}
